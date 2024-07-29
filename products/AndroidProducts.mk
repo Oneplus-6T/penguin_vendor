@@ -65,7 +65,7 @@ PRODUCT_MAKEFILES += \
 COMMON_LUNCH_CHOICES += \
     aospa_alioth-userdebug \
     aospa_apollo-userdebug \
-    aospa_beryllium-userdebug \
+    aospa_beryllium-user \
     aospa_bitra-userdebug \
     aospa_bladerunner-userdebug \
     aospa_bluejay-userdebug \
